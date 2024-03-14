@@ -101,6 +101,8 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 
 # Output
 ![ex1](https://github.com/Iyalarasu1/Converter-design-and-simulation/assets/144870581/97cd347e-2203-4467-b38e-7ad77783adf6)
+![ex2](https://github.com/Iyalarasu1/Converter-design-and-simulation/assets/144870581/03ddff81-fb6b-4932-bac5-5ebaa57e1272)
+
 
 
 
